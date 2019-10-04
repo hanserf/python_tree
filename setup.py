@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pytree',
-    version='0.0.1',
+    version='0.0.6',
     description='Lists folders and files as a tree',
     author='hansef',
     author_email='hans.erik.fjeld@embida.no',
